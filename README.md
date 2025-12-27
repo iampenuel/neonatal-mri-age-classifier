@@ -1,5 +1,3 @@
-# README.md
-
 # Neonatal Brain MRI Age Classification (0–12 months)
 
 In this project, I built and evaluated a deep learning model that predicts an infant’s **developmental age bin (0–12 months)** from a **single neonatal/infant brain MRI slice**. I trained transfer learning CNNs on a public Kaggle dataset and added **Grad-CAM** to provide a simple visual explanation of what influenced the model’s prediction.
