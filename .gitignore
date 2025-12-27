@@ -1,0 +1,14 @@
+# Data / secrets
+kaggle.json
+*.zip
+data/
+Dataset_myelination/
+__pycache__/
+.ipynb_checkpoints/
+
+# Model checkpoints (optional to keep out)
+*.pt
+*.pth
+
+# System
+.DS_Store
